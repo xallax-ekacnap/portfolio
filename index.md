@@ -10,7 +10,7 @@ This is a game made with pygame that ...
 
 I made this for a school project in which the assignment was to create a [monomyth](https://en.wikipedia.org/wiki/Hero%27s_journey)
 
-* GitHub: https://github.com/xallax-ekacnap/CyoA_Roguelike
-* Replit: https://replit.com/@xallax/LA-HJ-Videogame
+* GitHub: (https://github.com/xallax-ekacnap/CyoA_Roguelike)
+* Replit: (https://replit.com/@xallax/LA-HJ-Videogame)
 
 
